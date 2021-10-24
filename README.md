@@ -1,5 +1,5 @@
 # 👋 Hello friends
-I'm 21 years old frontend developer who love Angular and some times i make a mobile app with Flutter :smile:
+I'm 21 years old developer who love Angular and some times i make a mobile app with Flutter and i'm makeing love with Goper :smile:
 
 - Know my personality type with MBTI test from [here](https://www.16personalities.com/profiles/6568239b44725)
 - You can find me on [Twitter](https://twitter.com/iamnonroot) or [Instagram](https://www.instagram.com/iamnonroot/) or [Telegram](https://t.me/iamnonroot)
